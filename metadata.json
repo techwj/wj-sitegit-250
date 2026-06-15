@@ -1,0 +1,59 @@
+{
+  "siteId": "morning-wake-up-exercise",
+  "generatedAt": "2026-06-05T14:00:16.330199",
+  "categories": [
+    "beginner-morning-wake-up-exercise",
+    "advanced-morning-wake-up-exercise",
+    "tips-morning-wake-up-exercise",
+    "history-morning-wake-up-exercise",
+    "trending-morning-wake-up-exercise",
+    "tutorials-morning-wake-up-exercise"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-morning-wake-up-exercise",
+      "category_name": "Beginner Morning Wake Up Exercise"
+    },
+    {
+      "category_slug": "advanced-morning-wake-up-exercise",
+      "category_name": "Advanced Morning Wake Up Exercise"
+    },
+    {
+      "category_slug": "tips-morning-wake-up-exercise",
+      "category_name": "Morning Wake Up Exercise Tips"
+    },
+    {
+      "category_slug": "history-morning-wake-up-exercise",
+      "category_name": "Morning Wake Up Exercise History"
+    },
+    {
+      "category_slug": "trending-morning-wake-up-exercise",
+      "category_name": "Trending Morning Wake Up Exercise"
+    },
+    {
+      "category_slug": "tutorials-morning-wake-up-exercise",
+      "category_name": "Morning Wake Up Exercise Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "morning-wake-up-exercise",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Morning Wake Up Exercise Central",
+    "articles_per_row": 3
+  }
+}
